@@ -1,0 +1,6 @@
+{
+  "name": "NUBPC — Northern University Bangladesh Programming Community",
+  "description": "Modern competitive programming and developer community platform for Northern University Bangladesh students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
